@@ -2,95 +2,93 @@
 
 html{
     padding-top: 4rem;
-/*    background: url(/img/Global-Warming-uhd-desktop.jpg) no-repeat fixed center;*/
-/*    background-size: auto 100%; */
+    font-family: 'Raleway', 'Droid Sans', 'Arial', sans-serif;
 }
 
+h1{
+    font-family: 'Raleway', 'Droid Sans', 'Arial', sans-serif;
+}
+h4{
+    font-family: 'Raleway', 'Droid Sans', 'Arial', sans-serif;
+}
+.navbar-toggler{
+    font-family: 'Raleway', 'Droid Sans', 'Arial', sans-serif;
+}
+.nav{
+    font-family: 'Raleway', 'Droid Sans', 'Arial', sans-serif;
+}
+footer div span ul p{
+    font-family: 'Raleway', 'Droid Sans', 'Arial', sans-serif;
+}
+.btn{
+    font-family: 'Raleway', 'Droid Sans', 'Arial', sans-serif;
+}
+label{
+    font-family: 'Raleway', 'Droid Sans', 'Arial', sans-serif;
+}
+p{
+   font-family: 'Bitter', 'Droid Serif', 'Times New Roman', serif; 
+}
+li{
+   font-family: 'Bitter', 'Droid Serif', 'Times New Roman', serif;  
+}
+a{
+    font-family: 'Bitter', 'Droid Serif', 'Times New Roman', serif; 
+}
+.map{
+    padding: 1rem;
+}
 body{
-/*    background-color: #90FFD4;*/
     background-color: #DDD;
-/*    background: url(/img/Global-Warming-uhd-desktop.jpg) no-repeat fixed center;*/
-/*
-    background-image: url(/img/Global-Warming-uhd-desktop.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-*/
-/*    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%);*/
 }
-
 .navbar{
     background-color: #3496CC;
 }
 .navbar-toggler{
     cursor: pointer;
 }
-
 .jumbotron{
-/*    background-color: hsla(0, 0%, 100%, 0.85);*/
     background-color: #74D7FF;
     opacity: 0.85;
 }
-
 .display-3{
     color: #FFF;
-    text-shadow: 2px 2px #777;    
+    text-shadow: 2px 2px #777;
+    font-family: 'Raleway', 'Droid Sans', 'Arial', sans-serif;
 }
-
 .card-inverse{
-/*    background-color: #333;*/
     display: inline-block;
-
 }
-
-.card-inverse:nth-child(2n){
-/*    background-color: #555;*/
-}
-
 .card-header{
     font-size: 3rem;
     background-color: #74D7FF;
     color: #FFF;
     text-shadow: 2px 2px #777;
 }
-
 .floatcards{
-/*    float: left;*/
-/*    width: 31%;*/
-/*    margin: 1%;*/
     background-color: #74D7FF;
     opacity: 0.85;
 }
-
 .card-block{
     background-color: #74D7FF;
     opacity: 0.8;
-    
 }
-
-.list-group-item{
-    
-}
-
 .formmm{
     margin: 1rem;
     padding: 2rem;
     width: 90%;
-    
+    background-color: #74D7FF;
+    opacity: 0.9;
 }
-
 .form-group{
-/*    background-color: #74D7FF;*/
     
 }
-
 .icon{
     float: left;
     padding: 0 1rem;
     font-size: 1.5rem;
     text-align: center;
     color: #DDD;
-    
-    
 }
 .container{
     width: 100%;
@@ -99,23 +97,10 @@ body{
     bottom: 0;
     opacity: 0.95;
     clear: both;
-    
 }
-
 div img{
     
-    
 }
-
-/*
-.rounded-circle{
-    height: 200px;
-    width: 200px;
-    margin: 0 auto;
-    
-}
-*/
-
 .iconic-social-instagram:hover{
     color: #e95950;
     cursor: pointer;
